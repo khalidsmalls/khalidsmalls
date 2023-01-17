@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khalidsmalls
 - 👀 I’m interested in full-stack web development, app development
-- 🌱 I’m currently learning reactJs, typescript, linux
+- 🌱 I’m currently studying java development
 - 💞️ I’m looking to collaborate on full-stack web development, app development
 - 📫 How to reach me khalidsmalls@protonmail.com
 
