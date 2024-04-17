@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @khalidsmalls
-- 👀 I’m interested in full-stack web development, app development
-- 🌱 I’m currently studying java development
-- 💞️ I’m looking to collaborate on full-stack web development, app development
+# Khalid Smalls
+
 - 📫 How to reach me khalidsmalls@protonmail.com
 
 
