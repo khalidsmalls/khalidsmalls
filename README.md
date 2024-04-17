@@ -2,7 +2,7 @@
 
 - 📫 khalidsmalls@protonmail.com
 
-#
+<br><br>
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalidsmalls) 
@@ -27,6 +27,7 @@
 
 <br><br>
 <br><br>
+
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=khalidsmalls&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalidsmalls&theme=blue-green&hide_border=true)<br/>
