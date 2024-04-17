@@ -26,6 +26,8 @@
 <img align="left" width="50px" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <br><br>
+<br><br>
+
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=khalidsmalls&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalidsmalls&theme=blue-green&hide_border=true)<br/>
