@@ -1,6 +1,6 @@
 # Khalid Smalls
 
-👋🏿 
+:waving_hand::skin-tone:5:
 
 
 📫 khalidsmalls@protonmail.com<br><br>
