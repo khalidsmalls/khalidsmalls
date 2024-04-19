@@ -1,5 +1,9 @@
 # Khalid Smalls
 
+Hey, I'm a curious programmer that's fascinated with creating something from nothing.
+At the moment I'm curious about how RESTful APIs work and I enjoy making stuff with typescript.
+I'd like to work with Spring and React.
+
 📫 khalidsmalls@protonmail.com<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalidsmalls) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@khalid_smalls) 
