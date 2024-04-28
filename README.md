@@ -1,8 +1,6 @@
 # Khalid Smalls
 
-Hey, I'm a curious programmer that likes to learn new technologies and build things.<br>
-At the moment I'm curious about RESTful APIs and I think writing typescript is fun.<br>
-I'd like to work with Spring and React.
+
 
 
 📫 khalidsmalls@protonmail.com<br><br>
